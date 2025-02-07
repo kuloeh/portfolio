@@ -26,7 +26,7 @@
 - **기타**  
   - [블록체인] : EOS&#46;IO, C++(Smart Contract)  
   - API 설계 및 개발 : 공공데이터 포털 [Open API] 등록  
-  - AWS  
+  - AWS cloud
   - Kakao service api(Map, Message, search)  
 
 ## 주요 프로젝트
@@ -35,8 +35,8 @@
 - **기간**: 2020.09 ~ 2024.07
   
 - **역할**: Flutter 개발 리드
-  - 2020.09 ~ 22.08 : 초기 프로젝트 설계 및 개발 전담
-  - 2022.09 ~ 24.07 : 레거시 백엔드 개발 및 모바일 파트 개발 전담
+  - 2020.09 ~ 22.08 : (기여도100%) 초기 프로젝트 설계 및 프론트엔드(web,mobile), 백엔드(nodejs)개발 전담
+  - 2022.09 ~ 24.07 : (기여도100%) 레거시 백엔드 개발 및 (기여도70%) 모바일 파트 개발 전담
     
 - **주요 기술**: 
   - **프레임워크** : Flutter 3.19.6
@@ -44,12 +44,13 @@
   - **API 통합** : RESTful API, HTTP 패키지
   - **UI/UX** : Custom Widgets, Responsive Design, Animation 라이브러리
   - **딥링크** : Firebase Dynamic Links, App Links 
-  - **클라우드 서비스** : Firebase Cloud Messaging, AWS S3
+  - **클라우드 서비스** : Firebase Cloud Messaging, AWS 등
 
 - **성과**: 
   - 크로스플랫폼 환경에서 사용자 경험을 최적화한 [앱 출시]
   - 사용자 행동 패턴 분석으로 UI/UX 개선 후 사용자 만족도 증가
   - Provider 상태 관리와 RESTful API를 효율적으로 통합하여 안정적이고 확장 가능한 구조 구축
+  - 딥링크를 통한 SNS 마케팅 연동 및 특정 페이지 이동으로 사용자 경험 개선
   - 테스트 앱과 서비스 앱을 분리하여 관리
   - Flutter 2.17.0 버전에서 3.19.6 마이그레이션 진행
 
